@@ -4,7 +4,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 ## 1 Datos
 Titulo : TarotArcano
 
-Web: (url github.io)
+Web: (https://ainhoa-web.github.io/A.github.io/)
 
 Autor: Ainhoa Jiménez Romero
 
@@ -24,7 +24,7 @@ Tamaño proyecto: 40,2KB
 
 Fecha : 14/05/2025
 
-Medios (donde se tiene presencia relacionada):
+Medios (donde se tiene presencia relacionada): yo que ze pare, ni idea hermano. No ze ni lo que voy a come mañana.
 
 Github:
 Twitter:
