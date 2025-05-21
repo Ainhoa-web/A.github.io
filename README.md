@@ -1,26 +1,26 @@
-# (Nombre del proyecto)
+# (TarotArcano)
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : MI Proyecto(nombre)
+Titulo : TarotArcano
 
 Web: (url github.io)
 
-Autor: (Nombre apellidos)
+Autor: Ainhoa Jiménez Romero
 
-Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+Resumen : El objetivo de la web es realizar tiradas de Tarot de manera segura.
 
-Estilo/género: Novela / juego / portfolio / documental... etc.
+Estilo/género: web espiritual
 
 Logotipo : (insertar imagen y breve justificación, si tiene)
 
 (insertar imágenes a resolucion de 100px alto)
 
-Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+Resolución: width: 370px; height: 927px
 
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+Probado en: MicrosoftEdge
 
-Tamaño proyecto: 14MB
+Tamaño proyecto: 40,2KB
 
 Fecha : 14/05/2025
 
