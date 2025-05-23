@@ -12,9 +12,7 @@ Resumen : El objetivo de la web es realizar tiradas de Tarot de manera segura.
 
 Estilo/género: web espiritual
 
-Logotipo : (insertar imagen y breve justificación, si tiene)
-
-(insertar imágenes a resolucion de 100px alto)
+Logotipo : ![Estudio logotipo](https://github.com/user-attachments/assets/620c371f-632e-4cc6-9cc0-7fe61dc06d12)
 
 Resolución: width: 370px; height: 927px
 
@@ -34,6 +32,7 @@ Tiktok:
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Desde la pantalla de inicio, 
 
 ### 2.2. Esquema de navegación
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
