@@ -32,16 +32,20 @@ Tiktok:
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-Desde la pantalla de inicio, 
+La web, a parte de la pantalla de inicio, constara de tres páginas: 
+La primera para la protección antes de realizar la lectura, pues se juegan con energías cuyas intenciones no sabemos. Así aseguramos un trabajo seguro.
+La segunda para la lectura, que contendrá una explicación del procedimiento y consistirá en elegir una carta aleatoria que explicara cada punto a tratar de la vida del que pregunta. Al final aparecerán los créditos y tendrás la opción de volver al inicio.
+La tercera página es por si se quieren informar sobre la simbología de las cartas.
 
 ### 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![Diagramaweb (1)](https://github.com/user-attachments/assets/75d17240-8a3f-4542-9d69-664c159d2336)
+
 
 ## 3. Metodología
 
 Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-Este proyecto es interesante porque ...
+Este proyecto es interesante porque 
 
 Orientado a .. (Público)
 
