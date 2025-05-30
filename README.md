@@ -22,7 +22,7 @@ Tamaño proyecto: 40,2KB
 
 Fecha : 14/05/2025
 
-Medios (donde se tiene presencia relacionada): yo que ze pare, ni idea hermano. No ze ni lo que voy a come mañana.
+Medios (donde se tiene presencia relacionada): no lo se
 
 Github:
 Twitter:
