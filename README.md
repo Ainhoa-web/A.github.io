@@ -45,9 +45,9 @@ La tercera página es por si se quieren informar sobre la simbología de las car
 
 Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-Este proyecto es interesante porque 
+Este proyecto es interesante porque explora una nueva rama dentro de las páginas web de Tarot Online, donde aparecen deescripciones de cartas y una estética de diseño llamativa.
 
-Orientado a .. (Público)
+Orientado a lo público, xplora el mundo de la introspección más que de falsas esperanzas de futuro, y te propone un ejercicio de agradecimiento para meditar y "protegerte" a ti mismo.
 
 Etapa 2: Desarrollo / actividades realizadas
 
